@@ -1,4 +1,4 @@
-# SIEM Project: Brute-Force / Port Scan Attack Detection
+# Brute-Force / Port Scan Attack Detection
 
 ## Context
 This project utilizes the Splunk Security Information and Event Management (SIEM) platform to analyze security logs containing threat categories (PortScan, BotAttack, Failure). The goal was to perform forensic analysis on historical data, identify a persistent threat, and operationalize the finding through a scheduled alert.
